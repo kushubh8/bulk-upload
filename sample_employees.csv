@@ -1,0 +1,11 @@
+firstName,lastName,email,startDate,country,customerId
+Alice,Johnson,alice.johnson@acme.com,2024-01-15,US,CUST-001
+Bob,Smith,bob.smith@acme.com,2024-02-01,GB,CUST-001
+Carol,Williams,carol.williams@acme.com,2024-03-10,CA,CUST-002
+David,Brown,david.brown@acme.com,2024-04-05,AU,CUST-002
+Eva,Martinez,eva.martinez@acme.com,2024-05-20,DE,CUST-003
+Frank,Lee,frank.lee@acme.com,2024-06-01,SG,CUST-003
+Grace,Kim,grace.kim@acme.com,2024-07-15,JP,CUST-004
+Henry,Chen,henry.chen@acme.com,2024-08-01,IN,CUST-004
+Iris,Patel,iris.patel@acme.com,2024-09-10,NZ,CUST-005
+Jack,Nguyen,jack.nguyen@acme.com,2024-10-01,FR,CUST-005
